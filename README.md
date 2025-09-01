@@ -16,7 +16,7 @@ Matricula: 905761
 ## Tela de projeto no Replit
 
 `<Coloque aqui o print da tela do projeto no Replit>`
-![print](imagens/Replit.PNG)
+![print](iImagens/Replit.PNG)
 
 
 
