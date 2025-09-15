@@ -16,10 +16,6 @@ Matricula: 905761
 
 `<Coloque aqui o print da tela do projeto no Replit>`
 ![print](Images/Replit.PNG)
-<<<<<<< HEAD
-
-=======
->>>>>>> 2ef0d2941cb2abccaf2329d004bfd76c9e41c38c
 
 ## Orientações sobre Linguagem MarkDown
 
