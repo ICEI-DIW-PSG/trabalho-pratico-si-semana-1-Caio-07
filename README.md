@@ -10,13 +10,12 @@ Matricula: 905761
 ## Tela de inspeção com navegador
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
-![print](Images/Replit.PNG)
+![print](Images/Ferramenta-Dev.jpg)
 
 ## Tela de projeto no Replit
 
 `<Coloque aqui o print da tela do projeto no Replit>`
-![print](Images/Ferramenta-Dev.jpg)
-
+![print](Images/Replit.PNG)
 
 ## Orientações sobre Linguagem MarkDown
 
