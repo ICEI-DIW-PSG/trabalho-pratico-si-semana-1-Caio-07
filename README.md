@@ -10,13 +10,13 @@ Matricula: 905761
 ## Tela de inspeção com navegador
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
-![print](Images/Ferramenta-Dev.jpg)<img width="553" height="958" alt="Ferramenta-Dev" src="https://github.com/user-attachments/assets/42b1e90f-23ff-4c70-8a4d-e58263e3fcbe" />
+<img width="553" height="958" alt="Ferramenta-Dev" src="https://github.com/user-attachments/assets/42b1e90f-23ff-4c70-8a4d-e58263e3fcbe" />
 
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
-![print](Images/Replit.PNG)
+<img width="1633" height="880" alt="Replit" src="https://github.com/user-attachments/assets/34e2d110-a264-4bf9-9f68-6d40bd0094d0" />
+
 
 ## Orientações sobre Linguagem MarkDown
 
