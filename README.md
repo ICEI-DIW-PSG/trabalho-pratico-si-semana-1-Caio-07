@@ -10,7 +10,8 @@ Matricula: 905761
 ## Tela de inspeção com navegador
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
-![print](Images/Ferramenta-Dev.jpg)
+![print](Images/Ferramenta-Dev.jpg)<img width="553" height="958" alt="Ferramenta-Dev" src="https://github.com/user-attachments/assets/42b1e90f-23ff-4c70-8a4d-e58263e3fcbe" />
+
 
 ## Tela de projeto no Replit
 
